@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/3lNJJ67.png" group-title="ITALY",Cartoonito
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boing Italia" tvg-logo="https://i.imgur.com/AcSRwuN.png" group-title="ITALY",Boing Italia
+https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Euronews" tvg-logo="https://i.imgur.com/K6bo1R3.jpg" group-title="ITALY",Euronews
 https://rakuten-euronews-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-name="RAI News 24" tvg-id="" group-title="ITALY" tvg-logo="https://i.imgur.com/9XMVvZ4.jpg",RAI News 24
@@ -21,9 +25,5 @@ https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channe
 https://sbshdlu5-lh.akamaihd.net/i/sbshdl_6@1000854/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="History Lab" tvg-logo="https://i.imgur.com/9D754nx.png" group-title="ITALY",History Lab
 https://5929b138b139d.streamlock.net/HistoryLab/livestream/playlis.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Boing Italia" tvg-logo="https://i.imgur.com/AcSRwuN.png" group-title="ITALY",Boing Italia
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(KB)/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/3lNJJ67.png" group-title="ITALY",Cartoonito
-https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="VH1 Italia" tvg-logo="https://i.imgur.com/J06pfxg.png" group-title="ITALY",VH1 Italia
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
