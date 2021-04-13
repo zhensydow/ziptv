@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="Super!" tvg-logo="https://i.imgur.com/lQDELfr.png" group-title="ITALY",Super!
+https://viacomitalytest-lh.akamaihd.net/i/sbshdlive_1@357018/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/3lNJJ67.png" group-title="ITALY",Cartoonito
 https://live3-radio-mediaset-it.akamaized.net/Content/hls_h0_clr_vos/live/channel(la)/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Boing Italia" tvg-logo="https://i.imgur.com/AcSRwuN.png" group-title="ITALY",Boing Italia
